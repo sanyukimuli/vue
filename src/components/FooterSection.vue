@@ -1,17 +1,17 @@
 <template>
     <div>
         <h1>
-            Welcome to Kampala
+            Footer Section 
         </h1>
     </div>
 </template>
 
 <script>
-export default {
-    
+    export default {
+    name: "FooterSection"  
 }
 </script>
 
-<style scoped>
+<style>
 
 </style>
